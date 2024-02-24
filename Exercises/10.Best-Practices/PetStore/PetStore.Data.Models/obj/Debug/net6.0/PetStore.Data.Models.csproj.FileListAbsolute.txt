@@ -1,0 +1,17 @@
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\bin\Debug\net6.0\PetStore.Data.Models.deps.json
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\bin\Debug\net6.0\PetStore.Data.Models.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\bin\Debug\net6.0\PetStore.Data.Models.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\bin\Debug\net6.0\PetStore.Data.Common.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\bin\Debug\net6.0\PetStore.Data.Models.Common.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\bin\Debug\net6.0\PetStore.Data.Common.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\bin\Debug\net6.0\PetStore.Data.Models.Common.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.csproj.AssemblyReference.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.AssemblyInfoInputs.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.AssemblyInfo.cs
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.csproj.CoreCompileInputs.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.csproj.CopyComplete
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\refint\PetStore.Data.Models.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\PetStore.Data.Models.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Data.Models\obj\Debug\net6.0\ref\PetStore.Data.Models.dll

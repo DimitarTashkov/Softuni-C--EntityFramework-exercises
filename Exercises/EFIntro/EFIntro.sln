@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFIntro", "EFIntro\EFIntro.csproj", "{09A23D6A-0E25-4FC7-BB81-8AB76074FE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A23D6A-0E25-4FC7-BB81-8AB76074FE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A23D6A-0E25-4FC7-BB81-8AB76074FE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A23D6A-0E25-4FC7-BB81-8AB76074FE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A23D6A-0E25-4FC7-BB81-8AB76074FE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E32B99E-CE8B-4A73-8423-1FC70940E0CC}
+	EndGlobalSection
+EndGlobal

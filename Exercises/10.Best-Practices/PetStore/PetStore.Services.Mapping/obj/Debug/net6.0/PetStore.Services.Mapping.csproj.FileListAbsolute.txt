@@ -1,0 +1,12 @@
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\bin\Debug\net6.0\PetStore.Services.Mapping.deps.json
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\bin\Debug\net6.0\PetStore.Services.Mapping.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\bin\Debug\net6.0\PetStore.Services.Mapping.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\PetStore.Services.Mapping.csproj.AssemblyReference.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\PetStore.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\PetStore.Services.Mapping.AssemblyInfoInputs.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\PetStore.Services.Mapping.AssemblyInfo.cs
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\PetStore.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\PetStore.Services.Mapping.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\refint\PetStore.Services.Mapping.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\PetStore.Services.Mapping.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services.Mapping\obj\Debug\net6.0\ref\PetStore.Services.Mapping.dll

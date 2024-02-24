@@ -1,0 +1,12 @@
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\bin\Debug\net6.0\PetStore.Services.deps.json
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\bin\Debug\net6.0\PetStore.Services.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\bin\Debug\net6.0\PetStore.Services.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.csproj.AssemblyReference.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.AssemblyInfoInputs.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.AssemblyInfo.cs
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.csproj.CoreCompileInputs.cache
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\refint\PetStore.Services.dll
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\PetStore.Services.pdb
+D:\10.Best-Practices-and-Architecture-Exercise-PetStore\PetStore\PetStore.Services\obj\Debug\net6.0\ref\PetStore.Services.dll
